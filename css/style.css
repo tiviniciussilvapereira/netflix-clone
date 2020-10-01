@@ -63,10 +63,14 @@ header nav a:hover{
     font-size: 40px;
     margin-top: 10%;
 }
-
+.filme-principal h3{
+    margin-top: 15px;
+    font-size: 25px;
+}
 .filme-principal p{
+    font-size: 20px;
     font-weight: 500;
-    line-height: 25px;
+    line-height: 30px;
 }
 .filme-principal .container{
     max-width: 60%;
@@ -125,7 +129,7 @@ header nav a:hover{
 }
 
 .carousel-filmes p{
-    font-size: 20px;
+    font-size: 28px;
     font-weight: bold;
     margin-bottom: 15px;
     margin-left: 10px;
@@ -166,7 +170,11 @@ header nav a:hover{
 .info-right .destaque-arte{
     width: 80%;
     height: 200px;
-    background-color: lightgrey;
+    background-image: url(../img/hoops-art.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    
 }
 
 .info-right .destaque-texto{
@@ -176,5 +184,5 @@ header nav a:hover{
 
 .info-right .destaque-texto p{
     font-weight: 550;
-    font-size: 25px;
+    font-size: 23px;
 }

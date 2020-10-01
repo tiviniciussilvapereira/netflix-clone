@@ -32,5 +32,11 @@
         font-size: 15px;
         margin-top: -25px;
     }
+    .autoplay-left iframe{
+        width: 80%;
+        height: 50%;
+        border-radius: 20px;
+    
+    }
     
 }
