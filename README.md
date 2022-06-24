@@ -1,5 +1,5 @@
 # netflix-clone
-Aplicação da aula instruída pelo Felipe Aguiar no bootcamp da Digitan Innovation One. O objetivo foi replicar a tela inicial do Netflix, utilizando praticas de flex-box, wrappers, e bibliotecas de carousel
+Aplicação da aula instruída pelo Felipe Aguiar no bootcamp da Digital Innovation One. O objetivo foi replicar a tela inicial do Netflix, utilizando praticas de flex-box, wrappers, e bibliotecas de carousel
 
 ## Telas 
 
